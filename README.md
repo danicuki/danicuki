@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danicuki" alt="danicuki" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/danicuki" target="blank"><img src="https://img.shields.io/twitter/follow/vdanicuki?logo=twitter&style=for-the-badge" alt="danicuki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/danicuki" target="blank"><img src="https://img.shields.io/twitter/follow/danicuki?logo=twitter&style=for-the-badge" alt="danicuki" /></a> </p>
 
 - 📄 Know about my experiences [<a href="http://www.linkedin.com/in/danielcukier/" target="_blank">Click Here </a>]
 
