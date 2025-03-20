@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danicuki&show_icons=true&locale=en" alt="danicuki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danicuki&" alt="danicuki" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=danicuki" alt="danicuki" /></p>
