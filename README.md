@@ -14,8 +14,8 @@
 <a href="https://stackoverflow.com/users/105514/daniel-cukier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vjendra gaorh" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danicuki&show_icons=true&locale=en&layout=compact" alt="danicuki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danicuki&show_icons=true&locale=en&layout=compact&theme=dark" alt="danicuki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danicuki&show_icons=true&locale=en" alt="danicuki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danicuki&show_icons=true&locale=en&theme=dark" alt="danicuki" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=danicuki" alt="danicuki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=danicuki&theme=dark" alt="danicuki" /></p>
