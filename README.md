@@ -7,11 +7,11 @@ Daniel Cukier</h1>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@danicuki" target="blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@danicuki" target="blank"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/danielcukier/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/danielcukier/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/danicuki" target="blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/danicuki" target="blank"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/105514/daniel-cukier" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  width="32px" /></a>
 
