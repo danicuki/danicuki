@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danicuki&label=Profile%20views&color=0e75b6&style=flat" alt="danicuki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danicuki&theme=onedark" alt="danicuki" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=danicuki&theme=onedark" alt="danicuki" /></a> </p>
 
 <p align="left"> <a href="https://x.com/danicuki" target="blank"><img src="https://img.shields.io/twitter/follow/danicuki?logo=twitter&style=for-the-badge" alt="danicuki" /></a> </p>
 
