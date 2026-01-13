@@ -24,5 +24,5 @@
 
 <p align="left"> <a href="https://x.com/danicuki" target="blank"><img src="https://img.shields.io/twitter/follow/danicuki?logo=twitter&style=for-the-badge" alt="danicuki" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danicuki&show_icons=true&locale=en&layout=compact&theme=dark" alt="danicuki" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danicuki&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged" alt="danicuki" /></p>
+<p><img align="left" src="https://github-readme-stats-iota-two-19.vercel.app/api/top-langs?username=danicuki&show_icons=true&locale=en&layout=compact&theme=dark" alt="danicuki" /></p>
+<p><img align="center" src="https://github-readme-stats-iota-two-19.vercel.app/api?username=danicuki&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged" alt="danicuki" /></p>
